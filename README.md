@@ -78,7 +78,7 @@ Se rediseñó por completo el bucle principal incorporando las tres pantallas de
 ### Diagrama de Flujo del Sistema
 A continuación se anexa el flujo interactivo digitalizado que modela la arquitectura lógica completa del examen, detallando los nodos de decisión, bucles anidados, variables de control y modulación multimedia:
 
-<img src="Diagrama de flujo.png" width="600">
+<img src="DIAGRAMA DE FLUJO/Diagrama de flujo.png" width="600">
 
 
 ---
