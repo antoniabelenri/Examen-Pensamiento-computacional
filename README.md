@@ -3,8 +3,8 @@
 * **Autora:** Antonia Rojas Iriarte
 * **Curso:** Pensamiento Computacional
 * **Sección:** 03
-* **Institución:** Facultad de Arquitectura, Arte y Diseño (FAAD) - Universidad Diego Portales (UDP)
 
+---
 
 ## 1. Información del Proyecto
 
