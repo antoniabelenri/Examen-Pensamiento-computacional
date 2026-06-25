@@ -67,16 +67,29 @@ Para dar cumplimiento estricto a las bases de evaluación, el proyecto integra r
 
 ## 5. Registro Visual del Proceso
 
-El desarrollo de la propuesta avanzó a través de un diseño iterativo enfocado en la transición de una visualización continua a una máquina de estados interactiva con control multimedia:
+El desarrollo del proyecto avanzó mediante un diseño iterativo estructurado en etapas lógicas de complejidad ascendente, sustentado en un análisis profundo de la abstracción geométrica y el Arte Óptico:
 
-### Bocetos e Iteraciones de la Solemne II
-El proyecto original se estructuraba sobre un lienzo lineal continuo que reaccionaba exclusivamente a variaciones posicionales fijas, enfocado principalmente en la modulación cromática de una matriz monocromática.
+### Referentes de Diseño e Influencias Visuales
 
-### Evolución al Sistema de Examen Avanzado
-Se rediseñó por completo el bucle principal incorporando las tres pantallas de navegación globales. Posteriormente, se integró el motor de audio interactivo solucionando la seguridad del navegador mediante la función `userStartAudio()` al presionar `ENTER`.
+#### 1. Victor Vasarely
+Inspiró la estructura rígida de la grilla matricial de 30x30 y la deformación de los módulos a partir de un punto de atracción focal (las coordenadas del mouse). El proyecto emula la alteración bidimensional del espacio plano característica de sus composiciones modulares.
+<br>
+<img src="vasarely.jpg" width="300" alt="Referente Victor Vasarely">
 
-### Diagrama de Flujo del Sistema
-A continuación se anexa el flujo interactivo digitalizado que modela la arquitectura lógica completa del examen, detallando los nodos de decisión, bucles anidados, variables de control y modulación multimedia:
+#### 2. Julio Le Parc
+Influyó de manera directa en la concepción de una experiencia óptica inestable y cinética. El sistema no se presenta como una obra estática y terminada, sino que requiere la participación continua y el movimiento del espectador para activar las variaciones formales y cromáticas en tiempo real.
+<br>
+<img src="leparc.jpg" width="300" alt="Referente Julio Le Parc">
+
+#### 3. Vera Molnár
+Inspiró la noción fundamental de introducir una perturbación matemática controlada al interior de un orden preestablecido. Esto se ve reflejado en el uso de la función `random()` para generar vibraciones lumínicas cromáticas y el uso de `frameCount` para acelerar la rotación y romper la simetría perfecta en el estado de "Caos".
+<br>
+<img src="molnar.jpeg" width="300" alt="Referente Vera Molnár">
+
+---
+
+### Diagrama de Flujo del Sistema Avanzado
+A continuación se presenta el flujo interactivo digitalizado que modela la arquitectura lógica completa del examen, detallando los nodos de decisión por teclado, bucles anidados, variables de control y modulación multimedia:
 
 <img src="DIAGRAMA DE FLUJO/Diagrama de flujo.png" width="600">
 
