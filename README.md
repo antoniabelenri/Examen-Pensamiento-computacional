@@ -98,8 +98,8 @@ A continuación se presenta el flujo interactivo digitalizado que modela la arqu
 
 ## 6. Links del Proyecto
 
-* [Ver Examen en Pantalla Completa (p5.js)](https://editor.p5js.org/antonia.rojas4/full/qV8dELDR_)
-* [Ver y Editar Código Fuente (p5.js)](https://editor.p5js.org/antonia.rojas4/sketches/qV8dELDR_)
+* [Ver Examen en Pantalla Completa (p5.js)]([https://editor.p5js.org/antonia.rojas4/full/qV8dELDR_](https://editor.p5js.org/antonia.rojas4/full/5bJsdtlRt)
+* [Ver y Editar Código Fuente (p5.js)]([https://editor.p5js.org/antonia.rojas4/sketches/qV8dELDR_](https://editor.p5js.org/antonia.rojas4/sketches/5bJsdtlRt)
 
 ---
 
